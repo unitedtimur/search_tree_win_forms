@@ -1,0 +1,9 @@
+﻿  main.cpp
+T:\Education\Practics\Tasks for c++\search_tree_win_forms\source.hpp(20): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+T:\Education\Practics\Tasks for c++\search_tree_win_forms\main.h(26): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+T:\Education\Practics\Tasks for c++\search_tree_win_forms\main.h(270): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+T:\Education\Practics\Tasks for c++\search_tree_win_forms\main.h(334): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+T:\Education\Practics\Tasks for c++\search_tree_win_forms\main.h(348): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+T:\Education\Practics\Tasks for c++\search_tree_win_forms\main.h(417): warning C4244: аргумент: преобразование "__int64" в "const int", возможна потеря данных
+  Bin_Tree.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  search_tree_win_forms.vcxproj -> T:\Education\Practics\Tasks for c++\search_tree_win_forms\x64\Debug\search_tree_win_forms.exe
